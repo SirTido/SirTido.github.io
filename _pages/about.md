@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maggie Wolff"
+title: "Thato Mogotsi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist focused on Product Analytics in the Travel Tech industry. 
+Aspiring Data Scientist focused on Data Analytics in the Banking industry. . 
 
 About Me
 ======
 
-Naturally curious and observant. Thrives on new challenges and never stops seeking out learning opportunities and sharing knowledge.
+I am a passionate and driven individual with an insatiable curiosity for the world of data science.
 
-I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model](https://github.com/maggiewolff/running_clothes_recommender) to figure out what to wear when running through another chilly Chicago winter, or on the job, using data to create better user experiences. Recently I looked at the impact of [user effort on business outcomes](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf). 
+My journey into the realm of data began with a fascination for problem-solving and a relentless thirst for knowledge. Despite starting with little expertise, I've embarked on a journey of self-discovery and learning, eagerly absorbing every opportunity to deepen my understanding of data analytics and its transformative potential.
 
-My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry.
+Beyond technical proficiency, I believe in the importance of collaboration and knowledge sharing. I actively seek opportunities to engage with like-minded individuals, whether through mentorship programs, industry events, or online communities, where I can both learn from others and contribute my own insights.
 
-I pivoted to analytics in 2016, after working in marketing and communication roles (which included some data analysis) for a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages I find in data.
+I have just completed the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science), laying the groundwork for a career in data science that combines my passion for problem-solving with my love for analytics. Currently I am busy building projects to showcase my skillset from the material that I have learned.
 
-Currently working in the travel tech industry analyzing user experiences for a corporate travel booking platform. Holds an MS in Data Science. Ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org). Organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/). Also oversees a mentorship program via [Data Angels](http://dataangels.org/), a Slack community for women in data.
-
-Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/magwolff). 
+In my free time, you can find me exploring new datasets, experimenting with coding languages, or simply immersing myself in the latest developments in the field. I am also deeply committed to promoting diversity and inclusion within the tech community, recognizing the value of diverse perspectives in driving innovation and progress.
